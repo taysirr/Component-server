@@ -1,0 +1,17 @@
+{
+  "name": "ConstatBot",
+  "version": "1.0.0",
+  "description": "This project is in format of a Component Package. Component Packages are the recommended way to organize Bots Custom Components code and allow the custom component code to be more portable to different runtime environments.",
+  "main": "main.js",
+  "dependencies": {
+    "@oracle/bots-node-sdk": "^2.1.6",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
